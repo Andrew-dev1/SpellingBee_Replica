@@ -81,7 +81,7 @@ Progress through ranks based on your percentage of maximum possible points:
 ├── GameLauncher.java      # Entry point - launches the game
 ├── JavaBeeLogic.java      # Core game logic and validation
 ├── JavaBeeGUI.java        # Graphics and user interface
-└── dictionary.txt         # Word list (not included)
+└── dictionary.txt         # Word list (personally created, should be changed)
 ```
 
 ## Technical Implementation
